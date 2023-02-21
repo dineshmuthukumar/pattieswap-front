@@ -42,14 +42,14 @@ export const footerLinks: (t: ContextApi['t']) => FooterLinkType[] = (t) => [
         label: t('Customer Support'),
         href: 'https://docs.pancakeswap.finance/contact-us/customer-support',
       },
-      {
-        label: t('Troubleshooting'),
-        href: 'https://docs.pancakeswap.finance/help/troubleshooting',
-      },
-      {
-        label: t('Guides'),
-        href: 'https://docs.pancakeswap.finance/get-started',
-      },
+      // {
+      //   label: t('Troubleshooting'),
+      //   href: 'https://docs.pancakeswap.finance/help/troubleshooting',
+      // },
+      // {
+      //   label: t('Guides'),
+      //   href: 'https://docs.pancakeswap.finance/get-started',
+      // },
     ],
   },
   {
